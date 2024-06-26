@@ -1,0 +1,4 @@
+../App/app.cpp:60:6:void initSX1278()	32	static
+../App/app.cpp:77:6:void sendState(const char*, float, float, const char*)	272	static
+../App/app.cpp:98:6:void displayState(float, float)	48	static
+../App/app.cpp:16:6:void appMain(I2C_HandleTypeDef*, SPI_HandleTypeDef*)	40	static

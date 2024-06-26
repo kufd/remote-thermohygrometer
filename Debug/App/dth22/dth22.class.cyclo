@@ -1,0 +1,4 @@
+../App/dth22/dth22.class.cpp:3:1:DTH22::DTH22(GPIO_TypeDef*, uint16_t)	1
+../App/dth22/dth22.class.cpp:9:23:EnvironmentConditions DTH22::read()	7
+../App/dth22/dth22.class.cpp:35:6:bool DTH22::dht22Start()	6
+../App/dth22/dth22.class.cpp:81:9:uint8_t DTH22::dht22ReadByte()	9

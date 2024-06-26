@@ -1,0 +1,21 @@
+../App/SX1278/SX1278.cpp:42:6:0(SX1278_t*, uint8_t, uint8_t*, uint8_t)	24	static
+../App/SX1278/SX1278.cpp:12:9:uint8_t SX1278_SPIRead(SX1278_t*, uint8_t)	16	static
+../App/SX1278/SX1278.cpp:20:6:void SX1278_SPIWrite(SX1278_t*, uint8_t, uint8_t)	16	static
+../App/SX1278/SX1278.cpp:27:6:void SX1278_SPIBurstRead(SX1278_t*, uint8_t, uint8_t*, uint8_t)	24	static
+../App/SX1278/SX1278.cpp:42:6:void SX1278_SPIBurstWrite(SX1278_t*, uint8_t, uint8_t*, uint8_t)	0	static
+../App/SX1278/SX1278.cpp:116:6:void SX1278_standby(SX1278_t*)	8	static
+../App/SX1278/SX1278.cpp:121:6:void SX1278_sleep(SX1278_t*)	8	static
+../App/SX1278/SX1278.cpp:126:6:void SX1278_entryLoRa(SX1278_t*)	0	static
+../App/SX1278/SX1278.cpp:57:6:void SX1278_config(SX1278_t*)	24	static
+../App/SX1278/SX1278.cpp:130:6:void SX1278_clearLoRaIrq(SX1278_t*)	0	static
+../App/SX1278/SX1278.cpp:134:5:int SX1278_LoRaEntryRx(SX1278_t*, uint8_t, uint32_t)	16	static
+../App/SX1278/SX1278.cpp:166:9:uint8_t SX1278_LoRaRxPacket(SX1278_t*)	16	static
+../App/SX1278/SX1278.cpp:189:5:int SX1278_LoRaEntryTx(SX1278_t*, uint8_t, uint32_t)	16	static
+../App/SX1278/SX1278.cpp:220:5:int SX1278_LoRaTxPacket(SX1278_t*, uint8_t*, uint8_t, uint32_t)	16	static
+../App/SX1278/SX1278.cpp:241:6:void SX1278_init(SX1278_t*, uint64_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t)	48	static
+../App/SX1278/SX1278.cpp:255:5:int SX1278_transmit(SX1278_t*, uint8_t*, uint8_t, uint32_t)	24	static
+../App/SX1278/SX1278.cpp:263:5:int SX1278_receive(SX1278_t*, uint8_t, uint32_t)	0	static
+../App/SX1278/SX1278.cpp:267:9:uint8_t SX1278_available(SX1278_t*)	0	static
+../App/SX1278/SX1278.cpp:271:9:uint8_t SX1278_read(SX1278_t*, uint8_t*, uint8_t)	16	static
+../App/SX1278/SX1278.cpp:280:9:uint8_t SX1278_RSSI_LoRa(SX1278_t*)	8	static
+../App/SX1278/SX1278.cpp:287:9:uint8_t SX1278_RSSI(SX1278_t*)	8	static

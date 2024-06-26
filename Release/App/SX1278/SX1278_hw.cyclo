@@ -1,0 +1,7 @@
+../App/SX1278/SX1278_hw.cpp:18:13:void SX1278_hw_SetNSS(SX1278_hw_t*, int)	1
+../App/SX1278/SX1278_hw.cpp:13:13:void SX1278_hw_init(SX1278_hw_t*)	1
+../App/SX1278/SX1278_hw.cpp:34:13:void SX1278_hw_SPICommand(SX1278_hw_t*, uint8_t)	2
+../App/SX1278/SX1278_hw.cpp:41:16:uint8_t SX1278_hw_SPIReadByte(SX1278_hw_t*)	2
+../App/SX1278/SX1278_hw.cpp:52:13:void SX1278_hw_DelayMs(uint32_t)	1
+../App/SX1278/SX1278_hw.cpp:23:13:void SX1278_hw_Reset(SX1278_hw_t*)	1
+../App/SX1278/SX1278_hw.cpp:56:12:int SX1278_hw_GetDIO0(SX1278_hw_t*)	1
