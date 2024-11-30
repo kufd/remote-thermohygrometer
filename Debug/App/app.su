@@ -1,5 +1,6 @@
 .././App/dth22/dth22.class.h:22:7:bool EnvironmentConditions::isSimilar(EnvironmentConditions&)	16	static
-../App/app.cpp:16:6:void appMain(I2C_HandleTypeDef*, SPI_HandleTypeDef*)	56	static
-../App/app.cpp:71:6:void initSX1278()	32	static
-../App/app.cpp:88:6:void sendState(const char*, float, float, const char*)	296	static
-../App/app.cpp:109:6:void displayState(float, float)	56	static
+../App/app.cpp:28:6:void appMain(I2C_HandleTypeDef*, SPI_HandleTypeDef*)	64	static
+../App/app.cpp:102:6:void initSX1278()	32	static
+../App/app.cpp:119:6:void sendState(const char*, float, float, const char*)	296	static
+../App/app.cpp:140:6:void displayStateCalculationProgress(uint32_t)	16	static
+../App/app.cpp:164:6:void displayState(float, float)	56	static

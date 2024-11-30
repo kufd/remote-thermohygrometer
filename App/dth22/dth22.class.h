@@ -21,7 +21,7 @@ struct EnvironmentConditions
 
 	bool isSimilar(EnvironmentConditions &that)
 	{
-	    return fabs(this->tempC - that.tempC) <= 0.1 && fabs(this->humidity - that.humidity) <= 0.1 && this->isValid == that.isValid;
+	    return fabs(this->tempC - that.tempC) <= 0.1 && fabs(this->humidity - that.humidity) <= 1.0 && this->isValid == that.isValid;
 	}
 };
 

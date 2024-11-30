@@ -1,4 +1,5 @@
-../App/app.cpp:60:6:void initSX1278()	1
-../App/app.cpp:77:6:void sendState(const char*, float, float, const char*)	2
-../App/app.cpp:98:6:void displayState(float, float)	1
-../App/app.cpp:16:6:void appMain(I2C_HandleTypeDef*, SPI_HandleTypeDef*)	5
+../App/app.cpp:102:6:void initSX1278()	1
+../App/app.cpp:119:6:void sendState(const char*, float, float, const char*)	2
+../App/app.cpp:142:6:void displayStateCalculationProgress(uint32_t)	2
+../App/app.cpp:166:6:void displayState(float, float)	1
+../App/app.cpp:28:6:void appMain(I2C_HandleTypeDef*, SPI_HandleTypeDef*)	11
